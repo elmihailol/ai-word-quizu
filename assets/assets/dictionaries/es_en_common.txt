@@ -1,0 +1,10 @@
+hola|hello|¡Hola, cómo estás?
+gato|cat|El gato es negro.
+perro|dog|El perro corre en el parque.
+casa|house|Tengo una casa grande.
+agua|water|Bebo agua fría.
+pan|bread|El pan está fresco.
+leche|milk|Bebo leche en la mañana.
+sol|sun|El sol brilla hoy.
+luna|moon|La luna es hermosa.
+estrella|star|Las estrellas brillan en la noche.

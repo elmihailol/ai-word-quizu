@@ -1,0 +1,10 @@
+cat|кот|The cat sleeps on the bed.
+dog|собака|The dog barks loudly.
+bird|птица|The bird flies in the sky.
+fish|рыба|Fish swim in the water.
+elephant|слон|The elephant is very big.
+lion|лев|The lion is the king of animals.
+tiger|тигр|The tiger has orange stripes.
+horse|лошадь|The horse runs fast.
+snake|змея|Be careful of the snake.
+bear|медведь|The bear is strong.
