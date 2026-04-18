@@ -1,0 +1,15 @@
+{
+  "sourceName": "Spanish",
+  "sourceLanguage": "ES",
+  "dataFile": "level-based.json",
+  "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+  "targetLanguages": [
+    { "code": "EN", "name": "english" },
+    { "code": "RU", "name": "russian" },
+    { "code": "FR", "name": "french" },
+    { "code": "TR", "name": "turkish" },
+    { "code": "DE", "name": "german" },
+    { "code": "JA", "name": "japanese" },
+    { "code": "KO", "name": "korean" }
+  ]
+}

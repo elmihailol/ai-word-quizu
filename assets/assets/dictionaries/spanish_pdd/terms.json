@@ -1,0 +1,4442 @@
+[
+  {
+    "word": "semáforo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 300,
+    "example_sentence_native": "El semáforo en rojo obliga a detenerse completamente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "светофор",
+        "example": "Красный сигнал светофора обязывает водителя остановиться."
+      }
+    ]
+  },
+  {
+    "word": "señal de stop",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 299,
+    "example_sentence_native": "La señal de stop obliga a detenerse antes de la línea.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Стоп»",
+        "example": "Знак «Стоп» требует полной остановки перед стоп-линией."
+      }
+    ]
+  },
+  {
+    "word": "ceda el paso",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 298,
+    "example_sentence_native": "Ceda el paso a los vehículos que circulan por la vía principal.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "уступите дорогу",
+        "example": "Водитель обязан уступить дорогу транспортным средствам на главной дороге."
+      }
+    ]
+  },
+  {
+    "word": "prohibición de paso",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 297,
+    "example_sentence_native": "La señal de prohibición de paso impide circular a todos los vehículos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "движение запрещено",
+        "example": "Знак «Движение запрещено» запрещает проезд всем транспортным средствам."
+      }
+    ]
+  },
+  {
+    "word": "dirección prohibida",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 296,
+    "example_sentence_native": "La señal de dirección prohibida prohíbe entrar en esa vía.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "въезд запрещён (кирпич)",
+        "example": "Знак «Въезд запрещён» не разрешает въезжать с данного направления."
+      }
+    ]
+  },
+  {
+    "word": "límite de velocidad",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 295,
+    "example_sentence_native": "El límite de velocidad en ciudad es de 50 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ограничение скорости",
+        "example": "В населённом пункте ограничение скорости составляет 50 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "prohibido adelantar",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 294,
+    "example_sentence_native": "La señal de prohibido adelantar prohíbe el adelantamiento de vehículos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обгон запрещён",
+        "example": "Знак «Обгон запрещён» запрещает выезд на встречную полосу для обгона."
+      }
+    ]
+  },
+  {
+    "word": "prohibido aparcar",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 293,
+    "example_sentence_native": "Está prohibido aparcar en zonas con esta señal.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стоянка запрещена",
+        "example": "Оставлять транспортное средство в зоне действия этого знака запрещено."
+      }
+    ]
+  },
+  {
+    "word": "prohibido estacionar",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 292,
+    "example_sentence_native": "No puedes detenerte ni estacionar donde hay esta señal.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "остановка и стоянка запрещены",
+        "example": "Запрещается как остановка, так и стоянка транспортного средства."
+      }
+    ]
+  },
+  {
+    "word": "paso de peatones",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 291,
+    "example_sentence_native": "Los vehículos deben ceder el paso en el paso de peatones.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "пешеходный переход",
+        "example": "Водители обязаны уступать дорогу пешеходам на пешеходном переходе."
+      }
+    ]
+  },
+  {
+    "word": "zona escolar",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 290,
+    "example_sentence_native": "Reduce la velocidad al entrar en una zona escolar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "школьная зона / знак «Дети»",
+        "example": "Вблизи школ необходимо снизить скорость — возможно появление детей."
+      }
+    ]
+  },
+  {
+    "word": "carretera principal",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 289,
+    "example_sentence_native": "En una carretera principal tienes prioridad de paso.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "главная дорога",
+        "example": "Транспортные средства на главной дороге имеют преимущество перед второстепенной."
+      }
+    ]
+  },
+  {
+    "word": "autopista",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 288,
+    "example_sentence_native": "En la autopista la velocidad máxima es de 120 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "автомагистраль (платная)",
+        "example": "На автомагистрали максимально допустимая скорость — 120 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "autovía",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 287,
+    "example_sentence_native": "La autovía permite circular a alta velocidad sin semáforos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "автострада (бесплатная)",
+        "example": "Автострада — высокоскоростная дорога без светофоров и пересечений в уровне."
+      }
+    ]
+  },
+  {
+    "word": "sentido único",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 286,
+    "example_sentence_native": "En esta calle de sentido único solo puedes circular en una dirección.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "одностороннее движение",
+        "example": "На улице с односторонним движением езда в обратном направлении запрещена."
+      }
+    ]
+  },
+  {
+    "word": "glorieta / rotonda",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 285,
+    "example_sentence_native": "En la rotonda tienen prioridad los vehículos que ya circulan dentro.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "круговое движение (кольцо)",
+        "example": "Транспортным средствам, уже въехавшим в кольцо, предоставляется приоритет."
+      }
+    ]
+  },
+  {
+    "word": "señal de obras",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 284,
+    "example_sentence_native": "Las señales de obras advierten de trabajos en la calzada.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Дорожные работы»",
+        "example": "Знаки дорожных работ предупреждают о ремонте покрытия на дороге."
+      }
+    ]
+  },
+  {
+    "word": "curva peligrosa",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 283,
+    "example_sentence_native": "Reduce la velocidad antes de una curva peligrosa.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "опасный поворот",
+        "example": "Перед опасным поворотом необходимо снизить скорость заблаговременно."
+      }
+    ]
+  },
+  {
+    "word": "señal triangular",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 282,
+    "example_sentence_native": "Las señales triangulares son señales de advertencia de peligro.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "треугольный знак (предупреждающий)",
+        "example": "Треугольные знаки с красной рамкой предупреждают об опасности на дороге."
+      }
+    ]
+  },
+  {
+    "word": "señal circular",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 281,
+    "example_sentence_native": "Las señales circulares con borde rojo son prohibiciones.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "круглый знак (запрещающий / предписывающий)",
+        "example": "Круглые знаки с красной рамкой — запрещающие, синие — предписывающие."
+      }
+    ]
+  },
+  {
+    "word": "prioridad de paso",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 280,
+    "example_sentence_native": "El vehículo que circula por la derecha tiene prioridad de paso.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "преимущество (приоритет) проезда",
+        "example": "Водитель, движущийся справа, имеет преимущество — правило правой руки."
+      }
+    ]
+  },
+  {
+    "word": "norma de la derecha",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 279,
+    "example_sentence_native": "En un cruce sin señalizar, aplica la norma de la derecha.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "правило правой руки",
+        "example": "На нерегулируемом перекрёстке равнозначных дорог уступают тому, кто справа."
+      }
+    ]
+  },
+  {
+    "word": "adelantamiento",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 278,
+    "example_sentence_native": "El adelantamiento debe realizarse por la izquierda.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обгон",
+        "example": "Обгон выполняется с выездом на полосу встречного движения слева."
+      }
+    ]
+  },
+  {
+    "word": "cambio de carril",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 277,
+    "example_sentence_native": "Señaliza siempre antes de hacer un cambio de carril.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "смена полосы движения",
+        "example": "Перед сменой полосы необходимо включить указатель поворота."
+      }
+    ]
+  },
+  {
+    "word": "distancia de seguridad",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 276,
+    "example_sentence_native": "Mantén siempre la distancia de seguridad con el vehículo de delante.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "безопасная дистанция",
+        "example": "Водитель обязан соблюдать безопасную дистанцию до впереди идущего ТС."
+      }
+    ]
+  },
+  {
+    "word": "cambio de sentido",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 275,
+    "example_sentence_native": "El cambio de sentido debe hacerse sin obstaculizar el tráfico.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "разворот",
+        "example": "При развороте водитель не должен создавать помех другим участникам движения."
+      }
+    ]
+  },
+  {
+    "word": "marcha atrás",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 274,
+    "example_sentence_native": "La marcha atrás debe realizarse con precaución y en distancias cortas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "движение задним ходом",
+        "example": "Движение задним ходом разрешено лишь на короткое расстояние при условии безопасности."
+      }
+    ]
+  },
+  {
+    "word": "parada",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 273,
+    "example_sentence_native": "Una parada no puede durar más de dos minutos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "остановка (кратковременная)",
+        "example": "Остановка — преднамеренное прекращение движения на время до 5 минут."
+      }
+    ]
+  },
+  {
+    "word": "estacionamiento",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 272,
+    "example_sentence_native": "El estacionamiento en doble fila está prohibido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стоянка / парковка",
+        "example": "Стоянка в два ряда запрещена, так как создаёт помехи движению."
+      }
+    ]
+  },
+  {
+    "word": "uso del cinturón",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 271,
+    "example_sentence_native": "El uso del cinturón de seguridad es obligatorio para todos los ocupantes.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "использование ремня безопасности",
+        "example": "Ремень безопасности обязателен для всех пассажиров и водителя."
+      }
+    ]
+  },
+  {
+    "word": "silla infantil",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 270,
+    "example_sentence_native": "Los niños menores de 135 cm deben usar silla infantil homologada.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "детское удерживающее устройство",
+        "example": "Дети ростом до 135 см должны ехать в сертифицированном детском кресле."
+      }
+    ]
+  },
+  {
+    "word": "uso del móvil al volante",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 269,
+    "example_sentence_native": "Está prohibido usar el móvil mientras se conduce.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "использование телефона за рулём",
+        "example": "Разговор по телефону без гарнитуры во время вождения запрещён."
+      }
+    ]
+  },
+  {
+    "word": "alumbrado obligatorio",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 268,
+    "example_sentence_native": "El alumbrado es obligatorio de noche y en túneles.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обязательное освещение (фары)",
+        "example": "Ближний свет фар обязателен ночью, в тоннелях и при плохой видимости."
+      }
+    ]
+  },
+  {
+    "word": "velocidad máxima genérica",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 267,
+    "example_sentence_native": "La velocidad máxima genérica en ciudad es de 50 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "общее ограничение скорости",
+        "example": "В Испании: в городе — 50, на обычных дорогах — 90, на автомагистралях — 120 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "arcén",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 266,
+    "example_sentence_native": "Los peatones deben circular por el arcén.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обочина",
+        "example": "Пешеходы за городом обязаны двигаться по обочине навстречу транспорту."
+      }
+    ]
+  },
+  {
+    "word": "incorporación a la vía",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 265,
+    "example_sentence_native": "Al incorporarse a la vía debes ceder el paso.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "въезд на дорогу / перестроение",
+        "example": "При въезде на главную дорогу необходимо уступить дорогу всем ТС."
+      }
+    ]
+  },
+  {
+    "word": "triángulo de emergencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 264,
+    "example_sentence_native": "Coloca los triángulos de emergencia si tu vehículo se avería.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аварийный треугольник",
+        "example": "При поломке необходимо выставить аварийный треугольник на дороге."
+      }
+    ]
+  },
+  {
+    "word": "chaleco reflectante",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 263,
+    "example_sentence_native": "Debes ponerte el chaleco reflectante antes de salir del vehículo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "светоотражающий жилет",
+        "example": "Перед выходом из ТС на дороге необходимо надеть светоотражающий жилет."
+      }
+    ]
+  },
+  {
+    "word": "remolque",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 262,
+    "example_sentence_native": "Un remolque requiere seguir normas especiales de velocidad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "буксировка / прицеп",
+        "example": "Скорость ТС с прицепом ограничена по особым правилам."
+      }
+    ]
+  },
+  {
+    "word": "línea continua",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 261,
+    "example_sentence_native": "No se puede cruzar una línea continua.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "сплошная линия разметки",
+        "example": "Пересекать сплошную линию разметки запрещено."
+      }
+    ]
+  },
+  {
+    "word": "línea discontinua",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 260,
+    "example_sentence_native": "La línea discontinua permite adelantar si hay visibilidad suficiente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "прерывистая линия разметки",
+        "example": "Прерывистую линию разрешено пересекать при наличии достаточной видимости."
+      }
+    ]
+  },
+  {
+    "word": "doble línea continua",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 259,
+    "example_sentence_native": "La doble línea continua prohíbe el adelantamiento en ambos sentidos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "двойная сплошная линия",
+        "example": "Двойная сплошная запрещает обгон в обоих направлениях движения."
+      }
+    ]
+  },
+  {
+    "word": "línea de stop",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 258,
+    "example_sentence_native": "El vehículo debe detenerse completamente antes de la línea de stop.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стоп-линия",
+        "example": "Водитель обязан полностью остановиться перед стоп-линией."
+      }
+    ]
+  },
+  {
+    "word": "paso de cebra",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 257,
+    "example_sentence_native": "Los vehículos deben ceder el paso en el paso de cebra.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "пешеходный переход (зебра)",
+        "example": "На зебре водители обязаны пропустить пешеходов."
+      }
+    ]
+  },
+  {
+    "word": "flecha de dirección",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 256,
+    "example_sentence_native": "Las flechas de dirección en el suelo indican el sentido permitido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стрелка направления движения",
+        "example": "Стрелки на дорожном покрытии указывают разрешённые направления движения."
+      }
+    ]
+  },
+  {
+    "word": "isleta",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 255,
+    "example_sentence_native": "No debes invadir una isleta de tráfico.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "разделительный островок",
+        "example": "Наезжать на разделительный островок запрещено."
+      }
+    ]
+  },
+  {
+    "word": "carril bici",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 254,
+    "example_sentence_native": "Los vehículos no pueden circular por el carril bici.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "велосипедная полоса / велодорожка",
+        "example": "Въезд автомобилей на велосипедную полосу запрещён."
+      }
+    ]
+  },
+  {
+    "word": "badén",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 253,
+    "example_sentence_native": "Reduce la velocidad antes de pasar por un badén.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "лежачий полицейский / дорожный порог",
+        "example": "Перед искусственной неровностью необходимо снизить скорость."
+      }
+    ]
+  },
+  {
+    "word": "paso a nivel",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 252,
+    "example_sentence_native": "Detente siempre si las barreras del paso a nivel están cerradas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "железнодорожный переезд",
+        "example": "При закрытом шлагбауме на переезде необходимо остановиться и ждать."
+      }
+    ]
+  },
+  {
+    "word": "marcas amarillas",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 251,
+    "example_sentence_native": "Las marcas amarillas en el bordillo prohíben el estacionamiento.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "жёлтая разметка на бордюре (запрет парковки)",
+        "example": "Жёлтая разметка на бордюре означает запрет стоянки в данном месте."
+      }
+    ]
+  },
+  {
+    "word": "conductor",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 250,
+    "example_sentence_native": "El conductor es responsable del estado del vehículo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "водитель",
+        "example": "Водитель несёт ответственность за техническое состояние транспортного средства."
+      }
+    ]
+  },
+  {
+    "word": "peatón",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 249,
+    "example_sentence_native": "Los peatones tienen prioridad en el paso de cebra.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "пешеход",
+        "example": "Пешеходы имеют приоритет на обозначенных пешеходных переходах."
+      }
+    ]
+  },
+  {
+    "word": "ciclista",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 248,
+    "example_sentence_native": "El ciclista debe usar casco en vías interurbanas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "велосипедист",
+        "example": "Велосипедист обязан носить шлем на загородных дорогах."
+      }
+    ]
+  },
+  {
+    "word": "motociclista",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 247,
+    "example_sentence_native": "El motociclista debe llevar siempre casco homologado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "мотоциклист",
+        "example": "Мотоциклист обязан всегда использовать сертифицированный шлем."
+      }
+    ]
+  },
+  {
+    "word": "agente de tráfico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 246,
+    "example_sentence_native": "El agente de tráfico tiene prioridad sobre las señales.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "сотрудник ДПС / регулировщик",
+        "example": "Указания регулировщика имеют приоритет над дорожными знаками и светофорами."
+      }
+    ]
+  },
+  {
+    "word": "vehículo de emergencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 245,
+    "example_sentence_native": "Debes ceder el paso a los vehículos de emergencia con sirena.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "транспортное средство экстренных служб",
+        "example": "Водители обязаны уступать дорогу ТС с включёнными спецсигналами."
+      }
+    ]
+  },
+  {
+    "word": "calzada",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 244,
+    "example_sentence_native": "Los vehículos deben circular por la calzada.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "проезжая часть",
+        "example": "Транспортные средства должны двигаться по проезжей части."
+      }
+    ]
+  },
+  {
+    "word": "acera",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 243,
+    "example_sentence_native": "Los peatones deben circular por la acera.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "тротуар",
+        "example": "Пешеходы обязаны передвигаться по тротуару, а не по проезжей части."
+      }
+    ]
+  },
+  {
+    "word": "zona urbana",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 242,
+    "example_sentence_native": "En zona urbana la velocidad máxima es de 50 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "населённый пункт",
+        "example": "В пределах населённого пункта максимально допустимая скорость — 50 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "vía interurbana",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 241,
+    "example_sentence_native": "En vía interurbana convencional la velocidad máxima es de 90 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "загородная дорога",
+        "example": "На обычной загородной дороге максимальная скорость — 90 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "multa",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 240,
+    "example_sentence_native": "Pasar un semáforo en rojo conlleva una multa grave.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "штраф",
+        "example": "Проезд на красный сигнал светофора влечёт серьёзный штраф."
+      }
+    ]
+  },
+  {
+    "word": "carné por puntos",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 239,
+    "example_sentence_native": "El carné por puntos penaliza las infracciones restando puntos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "балльная система водительских прав",
+        "example": "За каждое нарушение снимаются баллы; при нуле баллов — лишение прав."
+      }
+    ]
+  },
+  {
+    "word": "retirada del carné",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 238,
+    "example_sentence_native": "Conducir ebrio puede conllevar la retirada del carné.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "лишение водительских прав",
+        "example": "Вождение в нетрезвом состоянии может повлечь лишение водительских прав."
+      }
+    ]
+  },
+  {
+    "word": "permiso de conducir",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 237,
+    "example_sentence_native": "Es obligatorio llevar el permiso de conducir al volante.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "водительское удостоверение",
+        "example": "Водитель обязан иметь при себе водительское удостоверение."
+      }
+    ]
+  },
+  {
+    "word": "ITV",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 236,
+    "example_sentence_native": "El vehículo debe pasar la ITV periódicamente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "технический осмотр (ТО)",
+        "example": "Транспортное средство обязано регулярно проходить технический осмотр."
+      }
+    ]
+  },
+  {
+    "word": "seguro obligatorio",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 235,
+    "example_sentence_native": "Circular sin seguro obligatorio es una infracción muy grave.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обязательное страхование (ОСАГО)",
+        "example": "Езда без обязательного страхования — грубое нарушение ПДД."
+      }
+    ]
+  },
+  {
+    "word": "tasa de alcoholemia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 234,
+    "example_sentence_native": "La tasa máxima de alcoholemia para conductores es de 0,5 g/l.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "допустимый уровень алкоголя в крови",
+        "example": "В Испании допустимый предел — 0,5 г/л в крови (0,25 мг/л в выдыхаемом воздухе)."
+      }
+    ]
+  },
+  {
+    "word": "alcoholímetro",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 233,
+    "example_sentence_native": "El agente puede pedir que soples en el alcoholímetro.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "алкотестер",
+        "example": "Сотрудник полиции вправе потребовать пройти проверку на алкотестере."
+      }
+    ]
+  },
+  {
+    "word": "exceso de velocidad",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 232,
+    "example_sentence_native": "El exceso de velocidad es la principal causa de accidentes graves.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "превышение скорости",
+        "example": "Превышение скорости — главная причина тяжёлых дорожно-транспортных происшествий."
+      }
+    ]
+  },
+  {
+    "word": "accidente de tráfico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 231,
+    "example_sentence_native": "Tras un accidente de tráfico debes avisar a la policía.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "дорожно-транспортное происшествие (ДТП)",
+        "example": "После ДТП необходимо вызвать полицию и оказать помощь пострадавшим."
+      }
+    ]
+  },
+  {
+    "word": "darse a la fuga",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 230,
+    "example_sentence_native": "Darse a la fuga tras un accidente es un delito grave.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "скрытие с места ДТП",
+        "example": "Оставление места ДТП является уголовно наказуемым преступлением."
+      }
+    ]
+  },
+  {
+    "word": "infracción grave",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 229,
+    "example_sentence_native": "Saltarse un semáforo en rojo es una infracción grave.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "серьёзное нарушение ПДД",
+        "example": "Проезд на красный сигнал светофора является серьёзным нарушением."
+      }
+    ]
+  },
+  {
+    "word": "conducción temeraria",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 228,
+    "example_sentence_native": "La conducción temeraria puede llevar a la cárcel.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "опасное (безрассудное) вождение",
+        "example": "Опасное вождение может повлечь уголовную ответственность."
+      }
+    ]
+  },
+  {
+    "word": "frenos",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 227,
+    "example_sentence_native": "Revisa los frenos antes de un viaje largo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "тормоза",
+        "example": "Перед дальней поездкой необходимо проверить тормоза."
+      }
+    ]
+  },
+  {
+    "word": "neumático",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 226,
+    "example_sentence_native": "El neumático debe tener al menos 1,6 mm de dibujo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "шина / покрышка",
+        "example": "Минимально допустимая глубина протектора шины — 1,6 мм."
+      }
+    ]
+  },
+  {
+    "word": "retrovisor",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 225,
+    "example_sentence_native": "Comprueba siempre los retrovisores antes de cambiar de carril.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зеркало заднего вида",
+        "example": "Перед сменой полосы всегда нужно проверять зеркала заднего вида."
+      }
+    ]
+  },
+  {
+    "word": "intermitente",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 224,
+    "example_sentence_native": "Pon el intermitente antes de girar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "указатель поворота",
+        "example": "Включите указатель поворота до начала манёвра."
+      }
+    ]
+  },
+  {
+    "word": "luces de cruce",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 223,
+    "example_sentence_native": "Las luces de cruce deben usarse de noche en ciudad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ближний свет фар",
+        "example": "Ближний свет фар обязателен при движении в темноте в населённом пункте."
+      }
+    ]
+  },
+  {
+    "word": "luces de carretera",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 222,
+    "example_sentence_native": "Las luces de carretera se usan fuera de poblado cuando no hay vehículos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "дальний свет фар",
+        "example": "Дальний свет используется за городом при отсутствии встречных ТС."
+      }
+    ]
+  },
+  {
+    "word": "luces de emergencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 221,
+    "example_sentence_native": "Enciende las luces de emergencia si el vehículo se detiene en la vía.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аварийная световая сигнализация",
+        "example": "При вынужденной остановке необходимо включить аварийную сигнализацию."
+      }
+    ]
+  },
+  {
+    "word": "luces antiniebla",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 220,
+    "example_sentence_native": "Las luces antiniebla solo se usan con niebla o lluvia intensa.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "противотуманные фары",
+        "example": "Противотуманные фары используются только в тумане или при сильном дожде."
+      }
+    ]
+  },
+  {
+    "word": "luces de posición",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 219,
+    "example_sentence_native": "Las luces de posición indican la presencia del vehículo en condiciones de poca luz.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "габаритные огни",
+        "example": "Габаритные огни обозначают присутствие ТС в условиях недостаточной освещённости."
+      }
+    ]
+  },
+  {
+    "word": "extintor",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 218,
+    "example_sentence_native": "Es recomendable llevar un extintor en el vehículo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "огнетушитель",
+        "example": "Рекомендуется всегда иметь в автомобиле исправный огнетушитель."
+      }
+    ]
+  },
+  {
+    "word": "botiquín de primeros auxilios",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 217,
+    "example_sentence_native": "El botiquín de primeros auxilios es obligatorio en algunos vehículos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аптечка первой помощи",
+        "example": "Аптечка первой помощи является обязательным элементом оснащения ТС."
+      }
+    ]
+  },
+  {
+    "word": "rueda de repuesto",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 216,
+    "example_sentence_native": "Lleva siempre una rueda de repuesto en buen estado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "запасное колесо",
+        "example": "В автомобиле всегда должно быть запасное колесо в исправном состоянии."
+      }
+    ]
+  },
+  {
+    "word": "airbag",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 215,
+    "example_sentence_native": "El airbag se activa en caso de colisión fuerte.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "подушка безопасности",
+        "example": "Подушка безопасности активируется при сильном столкновении."
+      }
+    ]
+  },
+  {
+    "word": "ABS",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 214,
+    "example_sentence_native": "El ABS evita que las ruedas se bloqueen al frenar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ABS — антиблокировочная система тормозов",
+        "example": "ABS предотвращает блокировку колёс при экстренном торможении."
+      }
+    ]
+  },
+  {
+    "word": "ESP / control de estabilidad",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 213,
+    "example_sentence_native": "El ESP ayuda a mantener el control del vehículo en curvas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ESP — система стабилизации",
+        "example": "Система ESP помогает сохранить управляемость автомобиля в поворотах."
+      }
+    ]
+  },
+  {
+    "word": "freno de mano",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 212,
+    "example_sentence_native": "Usa el freno de mano al aparcar en pendiente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ручной тормоз / стояночный тормоз",
+        "example": "При парковке на уклоне необходимо ставить автомобиль на ручной тормоз."
+      }
+    ]
+  },
+  {
+    "word": "profundidad del dibujo del neumático",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 211,
+    "example_sentence_native": "La profundidad mínima del dibujo es de 1,6 mm.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "глубина протектора шины",
+        "example": "Минимально допустимая глубина протектора — 1,6 мм для легковых автомобилей."
+      }
+    ]
+  },
+  {
+    "word": "presión de los neumáticos",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 210,
+    "example_sentence_native": "Comprueba la presión de los neumáticos regularmente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "давление в шинах",
+        "example": "Давление в шинах необходимо регулярно проверять для безопасного движения."
+      }
+    ]
+  },
+  {
+    "word": "neumáticos de invierno",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 209,
+    "example_sentence_native": "Los neumáticos de invierno son obligatorios en algunas comunidades con nieve.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зимние шины",
+        "example": "В ряде регионов Испании зимние шины обязательны при снежных условиях."
+      }
+    ]
+  },
+  {
+    "word": "cadenas de nieve",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 208,
+    "example_sentence_native": "Las cadenas de nieve son obligatorias cuando lo indica la señal.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "цепи противоскольжения",
+        "example": "Цепи противоскольжения обязательны при соответствующем знаке на дороге."
+      }
+    ]
+  },
+  {
+    "word": "túnel",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 207,
+    "example_sentence_native": "En los túneles es obligatorio encender las luces de cruce.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "тоннель",
+        "example": "В тоннелях обязательно включение ближнего света фар."
+      }
+    ]
+  },
+  {
+    "word": "carril de emergencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 206,
+    "example_sentence_native": "El carril de emergencia es solo para vehículos averiados.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аварийная полоса (обочина автомагистрали)",
+        "example": "Аварийная полоса предназначена только для поломавшихся транспортных средств."
+      }
+    ]
+  },
+  {
+    "word": "bifurcación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 205,
+    "example_sentence_native": "Señaliza con antelación al llegar a una bifurcación.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "развилка дорог",
+        "example": "На развилке необходимо заблаговременно включить указатель поворота."
+      }
+    ]
+  },
+  {
+    "word": "desvío",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 204,
+    "example_sentence_native": "Hay un desvío obligatorio por obras.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "объезд / временный маршрут",
+        "example": "В связи с дорожными работами введён обязательный объезд."
+      }
+    ]
+  },
+  {
+    "word": "travesía",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 203,
+    "example_sentence_native": "La travesía es un tramo de carretera que pasa por un núcleo urbano.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "транзитный участок через населённый пункт",
+        "example": "На транзитном участке через населённый пункт действуют городские ограничения скорости."
+      }
+    ]
+  },
+  {
+    "word": "carretera convencional",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 202,
+    "example_sentence_native": "En carretera convencional el límite es 90 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обычная (двухполосная) дорога",
+        "example": "На обычной дороге вне населённого пункта ограничение скорости — 90 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "señal de información",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 201,
+    "example_sentence_native": "Las señales de información indican distancias y servicios.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "информационный знак",
+        "example": "Информационные знаки указывают расстояния и наличие дорожных услуг."
+      }
+    ]
+  },
+  {
+    "word": "señal de obligación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 200,
+    "example_sentence_native": "Las señales de obligación indican lo que el conductor debe hacer.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "предписывающий знак",
+        "example": "Предписывающие знаки указывают на обязательные действия водителя."
+      }
+    ]
+  },
+  {
+    "word": "señal de carga máxima",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 199,
+    "example_sentence_native": "La señal de carga máxima prohíbe el paso a vehículos que superen ese peso.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак максимально допустимой массы",
+        "example": "Знак ограничения массы запрещает проезд ТС с большей полной массой."
+      }
+    ]
+  },
+  {
+    "word": "señal de altura máxima",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 198,
+    "example_sentence_native": "Respeta las señales de altura máxima al entrar en un túnel.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак максимально допустимой высоты",
+        "example": "Перед въездом в тоннель следите за знаком ограничения высоты."
+      }
+    ]
+  },
+  {
+    "word": "señal de firme deslizante",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 197,
+    "example_sentence_native": "La señal de firme deslizante avisa de que la calzada puede ser resbaladiza.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Скользкое покрытие»",
+        "example": "Знак предупреждает о скользком покрытии и необходимости снизить скорость."
+      }
+    ]
+  },
+  {
+    "word": "señal de calzada con hielo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 196,
+    "example_sentence_native": "Extrema la precaución cuando hay señal de calzada con hielo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Обледенение дороги»",
+        "example": "При наличии этого знака необходимо соблюдать повышенную осторожность."
+      }
+    ]
+  },
+  {
+    "word": "señal de animales en la calzada",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 195,
+    "example_sentence_native": "La señal de animales advierte de posibles cruces de fauna silvestre.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Дикие животные»",
+        "example": "Знак предупреждает о возможном появлении диких животных на дороге."
+      }
+    ]
+  },
+  {
+    "word": "fin de todas las restricciones",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 194,
+    "example_sentence_native": "La señal de fin de todas las restricciones cancela todas las prohibiciones anteriores.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "конец всех ограничений",
+        "example": "Знак «Конец всех ограничений» отменяет ранее введённые запреты."
+      }
+    ]
+  },
+  {
+    "word": "zona azul",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 193,
+    "example_sentence_native": "En zona azul puedes aparcar pagando o con disco horario.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "синяя зона (платная парковка)",
+        "example": "В синей зоне парковка платная или ограничена по времени."
+      }
+    ]
+  },
+  {
+    "word": "zona de carga y descarga",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 192,
+    "example_sentence_native": "No puedes aparcar en una zona de carga y descarga.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зона погрузки-разгрузки",
+        "example": "В зоне погрузки-разгрузки стоянка частных автомобилей запрещена."
+      }
+    ]
+  },
+  {
+    "word": "velocidad mínima",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 191,
+    "example_sentence_native": "En autopista existe una velocidad mínima para no obstaculizar el tráfico.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "минимальная скорость",
+        "example": "На автомагистрали установлена минимальная скорость для предотвращения помех."
+      }
+    ]
+  },
+  {
+    "word": "normas en túnel",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 190,
+    "example_sentence_native": "En los túneles debes mantener mayor distancia de seguridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "правила движения в тоннеле",
+        "example": "В тоннеле необходимо увеличить безопасную дистанцию до впереди идущего ТС."
+      }
+    ]
+  },
+  {
+    "word": "carril de aceleración",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 189,
+    "example_sentence_native": "Usa el carril de aceleración para incorporarte a la autopista.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "полоса разгона",
+        "example": "Полоса разгона используется для набора скорости при въезде на магистраль."
+      }
+    ]
+  },
+  {
+    "word": "carril de deceleración",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 188,
+    "example_sentence_native": "Usa el carril de deceleración para salir de la autopista con seguridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "полоса торможения",
+        "example": "Полоса торможения предназначена для снижения скорости перед съездом."
+      }
+    ]
+  },
+  {
+    "word": "cruce regulado por semáforo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 187,
+    "example_sentence_native": "En un cruce regulado por semáforo sigue las indicaciones luminosas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "регулируемый перекрёсток (со светофором)",
+        "example": "На регулируемом перекрёстке необходимо следовать сигналам светофора."
+      }
+    ]
+  },
+  {
+    "word": "cruce sin regulación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 186,
+    "example_sentence_native": "En un cruce sin regulación aplica las normas de prioridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "нерегулируемый перекрёсток",
+        "example": "На нерегулируемом перекрёстке действуют общие правила приоритета."
+      }
+    ]
+  },
+  {
+    "word": "incorporarse al tráfico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 185,
+    "example_sentence_native": "Al incorporarse al tráfico desde un garaje debes ceder el paso.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "влиться в транспортный поток",
+        "example": "При выезде с парковки или из гаража необходимо уступать дорогу."
+      }
+    ]
+  },
+  {
+    "word": "prioridad en pendiente",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 184,
+    "example_sentence_native": "En una pendiente estrecha, el vehículo que sube tiene prioridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "приоритет на подъёме / спуске",
+        "example": "На узкой дороге с уклоном приоритет имеет ТС, движущееся в гору."
+      }
+    ]
+  },
+  {
+    "word": "aquaplaning",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 183,
+    "example_sentence_native": "El aquaplaning ocurre cuando el neumático pierde contacto con la calzada por agua.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аквапланирование",
+        "example": "Аквапланирование возникает, когда шина теряет сцепление с мокрым покрытием."
+      }
+    ]
+  },
+  {
+    "word": "distancia de frenado",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 182,
+    "example_sentence_native": "La distancia de frenado aumenta con la velocidad y el estado del pavimento.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "тормозной путь",
+        "example": "Тормозной путь увеличивается с ростом скорости и при мокром покрытии."
+      }
+    ]
+  },
+  {
+    "word": "calzada mojada",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 181,
+    "example_sentence_native": "Con calzada mojada debes reducir la velocidad y aumentar la distancia.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "мокрое дорожное покрытие",
+        "example": "При мокром покрытии необходимо снизить скорость и увеличить дистанцию."
+      }
+    ]
+  },
+  {
+    "word": "visibilidad reducida",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 180,
+    "example_sentence_native": "Con visibilidad reducida debes encender las luces y reducir la velocidad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ограниченная видимость",
+        "example": "В условиях ограниченной видимости включайте фары и снижайте скорость."
+      }
+    ]
+  },
+  {
+    "word": "niebla densa",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 179,
+    "example_sentence_native": "Con niebla densa usa las luces antiniebla y adapta la velocidad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "густой туман",
+        "example": "В густом тумане включайте противотуманные фары и снижайте скорость."
+      }
+    ]
+  },
+  {
+    "word": "zona de aparcamiento regulado",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 178,
+    "example_sentence_native": "En zona de aparcamiento regulado debes pagar o usar disco horario.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "регулируемая зона парковки",
+        "example": "В регулируемой зоне парковка возможна только за плату или с диском времени."
+      }
+    ]
+  },
+  {
+    "word": "aparcamiento en batería",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 177,
+    "example_sentence_native": "El aparcamiento en batería se realiza en ángulo recto respecto a la acera.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "парковка перпендикулярно (в ряд)",
+        "example": "Перпендикулярная парковка — автомобиль стоит под прямым углом к тротуару."
+      }
+    ]
+  },
+  {
+    "word": "aparcamiento en línea",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 176,
+    "example_sentence_native": "El aparcamiento en línea se realiza en paralelo a la acera.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "парковка параллельно тротуару",
+        "example": "Параллельная парковка — автомобиль расположен вдоль бордюра."
+      }
+    ]
+  },
+  {
+    "word": "doble fila",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 175,
+    "example_sentence_native": "Aparcar en doble fila obstruye el tráfico y está prohibido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "парковка во второй ряд (двойная линия)",
+        "example": "Парковка во второй ряд создаёт помехи движению и строго запрещена."
+      }
+    ]
+  },
+  {
+    "word": "vado",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 174,
+    "example_sentence_native": "No puedes aparcar frente a un vado señalizado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "въезд/выезд с частной территории (знак запрета парковки)",
+        "example": "Парковка напротив знака «Вадо» (въезд на территорию) запрещена."
+      }
+    ]
+  },
+  {
+    "word": "aparcamiento para discapacitados",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 173,
+    "example_sentence_native": "Las plazas para discapacitados solo pueden usarlas personas con tarjeta acreditativa.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "парковочное место для инвалидов",
+        "example": "Места для инвалидов разрешено занимать только владельцам специального разрешения."
+      }
+    ]
+  },
+  {
+    "word": "carril bus",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 172,
+    "example_sentence_native": "Solo los autobuses, taxis y motos pueden usar el carril bus.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "полоса для автобусов",
+        "example": "По полосе для автобусов могут ехать автобусы, такси и мотоциклы."
+      }
+    ]
+  },
+  {
+    "word": "ficha técnica",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 171,
+    "example_sentence_native": "La ficha técnica del vehículo debe llevarse siempre encima.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "технический паспорт транспортного средства",
+        "example": "Технический паспорт ТС необходимо иметь при себе во время поездки."
+      }
+    ]
+  },
+  {
+    "word": "permiso de circulación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 170,
+    "example_sentence_native": "El permiso de circulación acredita que el vehículo está matriculado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "свидетельство о регистрации транспортного средства",
+        "example": "СТС подтверждает, что транспортное средство зарегистрировано в органах ГИБДД."
+      }
+    ]
+  },
+  {
+    "word": "póliza de seguro",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 169,
+    "example_sentence_native": "Debes llevar la póliza de seguro o tenerla disponible digitalmente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "страховой полис",
+        "example": "Страховой полис необходимо иметь при себе или в цифровом виде."
+      }
+    ]
+  },
+  {
+    "word": "carné B",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 168,
+    "example_sentence_native": "El carné B permite conducir turismos y vehículos de hasta 3.500 kg.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "права категории B (легковые автомобили)",
+        "example": "Права категории B позволяют управлять легковыми автомобилями до 3 500 кг."
+      }
+    ]
+  },
+  {
+    "word": "carné A",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 167,
+    "example_sentence_native": "El carné A es necesario para conducir motocicletas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "права категории A (мотоциклы)",
+        "example": "Права категории A необходимы для управления мотоциклами."
+      }
+    ]
+  },
+  {
+    "word": "examen teórico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 166,
+    "example_sentence_native": "El examen teórico incluye preguntas sobre normas de circulación.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "теоретический экзамен по ПДД",
+        "example": "Теоретический экзамен включает вопросы по правилам дорожного движения."
+      }
+    ]
+  },
+  {
+    "word": "examen práctico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 165,
+    "example_sentence_native": "El examen práctico evalúa la habilidad de conducción real.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "практический экзамен по вождению",
+        "example": "Практический экзамен проверяет навыки вождения в реальных условиях."
+      }
+    ]
+  },
+  {
+    "word": "autoescuela",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 164,
+    "example_sentence_native": "Es necesario matricularse en una autoescuela para obtener el carné.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "автошкола",
+        "example": "Для получения водительских прав необходимо пройти обучение в автошколе."
+      }
+    ]
+  },
+  {
+    "word": "conductor novel",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 163,
+    "example_sentence_native": "El conductor novel tiene restricciones especiales durante dos años.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "начинающий водитель",
+        "example": "В течение двух лет после получения прав действуют особые ограничения."
+      }
+    ]
+  },
+  {
+    "word": "casco homologado",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 162,
+    "example_sentence_native": "El casco homologado es obligatorio para motociclistas y ciclistas en ciudad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "сертифицированный шлем",
+        "example": "Ношение сертифицированного шлема обязательно для мотоциклистов."
+      }
+    ]
+  },
+  {
+    "word": "parte amistoso",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 161,
+    "example_sentence_native": "Rellena el parte amistoso si hay un accidente leve sin heridos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "европротокол / совместное заявление о ДТП",
+        "example": "Европротокол заполняется при незначительном ДТП без пострадавших."
+      }
+    ]
+  },
+  {
+    "word": "atestado policial",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 160,
+    "example_sentence_native": "La policía levanta un atestado en accidentes con heridos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "протокол полиции о ДТП",
+        "example": "При ДТП с пострадавшими полиция составляет официальный протокол."
+      }
+    ]
+  },
+  {
+    "word": "seguro a todo riesgo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 159,
+    "example_sentence_native": "El seguro a todo riesgo cubre los daños propios del vehículo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "КАСКО (полное страхование)",
+        "example": "КАСКО покрывает ущерб собственному транспортному средству."
+      }
+    ]
+  },
+  {
+    "word": "responsabilidad civil",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 158,
+    "example_sentence_native": "El seguro de responsabilidad civil cubre los daños causados a terceros.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "гражданская ответственность",
+        "example": "Страхование гражданской ответственности покрывает ущерб третьим лицам."
+      }
+    ]
+  },
+  {
+    "word": "grúa municipal",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 157,
+    "example_sentence_native": "Si aparcar mal, la grúa municipal puede llevarse tu coche.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "муниципальный эвакуатор",
+        "example": "За неправильную парковку автомобиль может быть эвакуирован."
+      }
+    ]
+  },
+  {
+    "word": "radar de velocidad",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 156,
+    "example_sentence_native": "Los radares de velocidad detectan a los conductores que van demasiado rápido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "камера контроля скорости / радар",
+        "example": "Камеры фиксации автоматически выявляют нарушителей скоростного режима."
+      }
+    ]
+  },
+  {
+    "word": "primeros auxilios",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 155,
+    "example_sentence_native": "Todo conductor debe saber aplicar los primeros auxilios básicos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "первая помощь",
+        "example": "Каждый водитель обязан уметь оказывать базовую первую помощь."
+      }
+    ]
+  },
+  {
+    "word": "llamar al 112",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 154,
+    "example_sentence_native": "Llama al 112 si hay heridos en un accidente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "звонить 112 (экстренная служба)",
+        "example": "При наличии пострадавших в ДТП немедленно звоните по номеру 112."
+      }
+    ]
+  },
+  {
+    "word": "avería en la vía",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 153,
+    "example_sentence_native": "Ante una avería en la vía, señaliza el vehículo y aléjate.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "поломка на дороге",
+        "example": "При поломке на дороге обозначьте ТС и отойдите за ограждение."
+      }
+    ]
+  },
+  {
+    "word": "vehículo prioritario",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 152,
+    "example_sentence_native": "Los vehículos prioritarios son ambulancias, bomberos y policía.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "приоритетное транспортное средство",
+        "example": "Скорая помощь, пожарные и полиция — приоритетные транспортные средства."
+      }
+    ]
+  },
+  {
+    "word": "conducción bajo los efectos del alcohol",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 151,
+    "example_sentence_native": "Conducir bajo los efectos del alcohol es una infracción muy grave.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "вождение в состоянии алкогольного опьянения",
+        "example": "Управление ТС в состоянии алкогольного опьянения — грубое нарушение ПДД."
+      }
+    ]
+  },
+  {
+    "word": "paso preferente de peatones",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 150,
+    "example_sentence_native": "En el paso preferente el conductor debe detenerse si hay peatones.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "приоритетный пешеходный переход",
+        "example": "На приоритетном переходе водитель обязан остановиться при наличии пешеходов."
+      }
+    ]
+  },
+  {
+    "word": "zona 30",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 149,
+    "example_sentence_native": "En una zona 30 no puedes superar los 30 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зона 30 (ограничение 30 км/ч)",
+        "example": "В зоне 30 максимальная скорость не должна превышать 30 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "zona peatonal",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 148,
+    "example_sentence_native": "Los vehículos no pueden circular por una zona peatonal salvo en horario permitido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "пешеходная зона",
+        "example": "Въезд транспортных средств в пешеходную зону запрещён в большинстве часов."
+      }
+    ]
+  },
+  {
+    "word": "señalización de carga larga",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 147,
+    "example_sentence_native": "Los vehículos con carga larga deben llevar señalización especial.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обозначение длинногабаритного груза",
+        "example": "ТС с длинным грузом обязано использовать специальное обозначение."
+      }
+    ]
+  },
+  {
+    "word": "carga sobresaliente",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 146,
+    "example_sentence_native": "La carga sobresaliente debe señalizarse con una bandera o luz roja.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "груз, выступающий за габариты ТС",
+        "example": "Выступающий груз должен быть обозначен красным флажком или фонарём."
+      }
+    ]
+  },
+  {
+    "word": "mercancías peligrosas",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 145,
+    "example_sentence_native": "El transporte de mercancías peligrosas requiere formación especial.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "опасные грузы",
+        "example": "Перевозка опасных грузов требует специального обучения и разрешений."
+      }
+    ]
+  },
+  {
+    "word": "reincidencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 144,
+    "example_sentence_native": "La reincidencia en una infracción grave puede doblar la sanción.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "повторное нарушение ПДД",
+        "example": "Повторное нарушение ПДД влечёт удвоенный штраф или лишение прав."
+      }
+    ]
+  },
+  {
+    "word": "recurso de multa",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 143,
+    "example_sentence_native": "Puedes interponer un recurso si no estás de acuerdo con la multa.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обжалование штрафа",
+        "example": "Если вы не согласны со штрафом, его можно оспорить в установленный срок."
+      }
+    ]
+  },
+  {
+    "word": "pago con descuento",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 142,
+    "example_sentence_native": "Si pagas la multa en 20 días, obtienes un descuento del 50%.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "оплата штрафа со скидкой",
+        "example": "При оплате штрафа в течение 20 дней предоставляется скидка 50%."
+      }
+    ]
+  },
+  {
+    "word": "inmovilización del vehículo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 141,
+    "example_sentence_native": "La policía puede inmovilizar el vehículo si el conductor no tiene documentación.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "задержание транспортного средства",
+        "example": "Полиция вправе задержать ТС, если у водителя нет документов."
+      }
+    ]
+  },
+  {
+    "word": "conducción con sueño",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 140,
+    "example_sentence_native": "Conducir con sueño es tan peligroso como conducir ebrio.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "вождение в состоянии усталости / сонливости",
+        "example": "Вождение в сонном состоянии столь же опасно, как и в нетрезвом."
+      }
+    ]
+  },
+  {
+    "word": "tiempo de reacción",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 139,
+    "example_sentence_native": "El tiempo de reacción medio del conductor es de 1 segundo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "время реакции водителя",
+        "example": "Среднее время реакции водителя составляет около одной секунды."
+      }
+    ]
+  },
+  {
+    "word": "distancia de reacción",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 138,
+    "example_sentence_native": "La distancia de reacción es la que recorre el vehículo antes de frenar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "путь, пройденный до начала торможения",
+        "example": "Это расстояние, которое ТС проезжает с момента опасности до нажатия педали тормоза."
+      }
+    ]
+  },
+  {
+    "word": "conducción ecológica",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 137,
+    "example_sentence_native": "La conducción ecológica reduce el consumo de combustible.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "экологичное / экономичное вождение",
+        "example": "Экологичное вождение снижает расход топлива и выбросы CO₂."
+      }
+    ]
+  },
+  {
+    "word": "usuarios vulnerables",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 136,
+    "example_sentence_native": "Los peatones, ciclistas y motoristas son usuarios vulnerables.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "уязвимые участники дорожного движения",
+        "example": "Пешеходы, велосипедисты и мотоциклисты — наиболее уязвимые участники движения."
+      }
+    ]
+  },
+  {
+    "word": "circulación en autopista",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 135,
+    "example_sentence_native": "En autopista está prohibido circular a menos de 60 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "правила движения на автомагистрали",
+        "example": "На автомагистрали минимальная скорость — 60 км/ч, максимальная — 120 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "uso correcto de carriles",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 134,
+    "example_sentence_native": "Debes circular por el carril de la derecha salvo para adelantar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "правильное использование полос движения",
+        "example": "По умолчанию нужно ехать по правой полосе, левые — для обгона."
+      }
+    ]
+  },
+  {
+    "word": "señal V-16 (luz de emergencia)",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 133,
+    "example_sentence_native": "La señal V-16 sustituye a los triángulos de emergencia desde 2026.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "световой знак V-16 (замена аварийных треугольников)",
+        "example": "Световой знак V-16 заменяет аварийные треугольники с 2026 года в Испании."
+      }
+    ]
+  },
+  {
+    "word": "homologación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 132,
+    "example_sentence_native": "Todo equipo de seguridad debe tener homologación oficial.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "сертификация / официальное одобрение",
+        "example": "Всё защитное снаряжение должно иметь официальную сертификацию."
+      }
+    ]
+  },
+  {
+    "word": "punto negro",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 131,
+    "example_sentence_native": "Un punto negro es un tramo con alta concentración de accidentes.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аварийно-опасный участок дороги",
+        "example": "Аварийно-опасный участок — место с повышенной концентрацией ДТП."
+      }
+    ]
+  },
+  {
+    "word": "reducción de velocidad",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 130,
+    "example_sentence_native": "La reducción de velocidad es obligatoria en presencia de peatones.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "снижение скорости",
+        "example": "При приближении к пешеходному переходу необходимо снизить скорость."
+      }
+    ]
+  },
+  {
+    "word": "frenazo de emergencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 129,
+    "example_sentence_native": "Ante un frenazo de emergencia, mantén el volante firme.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "экстренное торможение",
+        "example": "При экстренном торможении необходимо крепко держать руль."
+      }
+    ]
+  },
+  {
+    "word": "visión periférica",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 128,
+    "example_sentence_native": "La visión periférica del conductor se reduce a alta velocidad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "периферийное зрение водителя",
+        "example": "При увеличении скорости поле периферийного зрения водителя сужается."
+      }
+    ]
+  },
+  {
+    "word": "punto ciego",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 127,
+    "example_sentence_native": "El punto ciego es la zona que no cubre el retrovisor.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "мёртвая зона (слепое пятно)",
+        "example": "Мёртвая зона — область, не отражаемая зеркалами заднего вида."
+      }
+    ]
+  },
+  {
+    "word": "intersección en T",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 126,
+    "example_sentence_native": "En una intersección en T, el que viene por el palo tiene prioridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "T-образный перекрёсток",
+        "example": "На T-образном перекрёстке дорога, которая продолжается прямо, имеет приоритет."
+      }
+    ]
+  },
+  {
+    "word": "obligación de circular por la derecha",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 125,
+    "example_sentence_native": "En España la obligación es circular por el carril derecho.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обязанность держаться правой стороны",
+        "example": "В Испании, как и в большинстве стран, водители обязаны двигаться по правой полосе."
+      }
+    ]
+  },
+  {
+    "word": "conducción nocturna",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 124,
+    "example_sentence_native": "La conducción nocturna requiere mayor precaución y luces adecuadas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ночное вождение",
+        "example": "Ночное вождение требует повышенного внимания и надлежащего освещения."
+      }
+    ]
+  },
+  {
+    "word": "vehículo de transporte público",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 123,
+    "example_sentence_native": "Debes ceder el paso a los autobuses que salen de una parada.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "общественный транспорт (автобус)",
+        "example": "Водители обязаны уступать дорогу автобусам, выезжающим с остановки."
+      }
+    ]
+  },
+  {
+    "word": "carril VAO",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 122,
+    "example_sentence_native": "El carril VAO está reservado para vehículos con más de un ocupante.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "полоса для ТС с несколькими пассажирами",
+        "example": "Полоса VAO предназначена для транспортных средств с двумя и более пассажирами."
+      }
+    ]
+  },
+  {
+    "word": "limpiaparabrisas",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 121,
+    "example_sentence_native": "Los limpiaparabrisas deben funcionar correctamente bajo la lluvia.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стеклоочистители",
+        "example": "Стеклоочистители должны исправно работать при движении под дождём."
+      }
+    ]
+  },
+  {
+    "word": "bocina / claxon",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 120,
+    "example_sentence_native": "El uso de la bocina está prohibido en ciudad salvo peligro inminente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "звуковой сигнал / клаксон",
+        "example": "Использование клаксона в городе запрещено, кроме случаев непосредственной опасности."
+      }
+    ]
+  },
+  {
+    "word": "luz de freno",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 119,
+    "example_sentence_native": "La luz de freno se activa al pisar el pedal de freno.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стоп-сигнал",
+        "example": "Стоп-сигнал активируется при нажатии на педаль тормоза."
+      }
+    ]
+  },
+  {
+    "word": "señal de peligro / hazard",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 118,
+    "example_sentence_native": "Activa las luces de emergencia para advertir de un peligro.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аварийный сигнал (hazard)",
+        "example": "Включите аварийный сигнал для предупреждения других водителей об опасности."
+      }
+    ]
+  },
+  {
+    "word": "adelantar por la derecha",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 117,
+    "example_sentence_native": "Adelantar por la derecha está generalmente prohibido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обгон справа (запрещён)",
+        "example": "Обгон транспортных средств справа, как правило, запрещён."
+      }
+    ]
+  },
+  {
+    "word": "encender las luces en lluvia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 116,
+    "example_sentence_native": "Con lluvia intensa debes encender las luces de cruce.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "включать фары в дождь",
+        "example": "При сильном дожде необходимо включить ближний свет фар."
+      }
+    ]
+  },
+  {
+    "word": "señal de velocidad aconsejada",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 115,
+    "example_sentence_native": "La señal de velocidad aconsejada recomienda no superar esa velocidad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "рекомендуемая скорость (не запрещающий знак)",
+        "example": "Рекомендуемая скорость — совет, а не обязательное ограничение."
+      }
+    ]
+  },
+  {
+    "word": "cruce de ferrocarril",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 114,
+    "example_sentence_native": "Ante un cruce de ferrocarril debes reducir la velocidad y comprobar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "железнодорожный переезд",
+        "example": "Перед железнодорожным переездом нужно снизить скорость и убедиться в безопасности."
+      }
+    ]
+  },
+  {
+    "word": "señal de paso a nivel sin barreras",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 113,
+    "example_sentence_native": "En los pasos a nivel sin barreras extreme la precaución.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак ж/д переезда без шлагбаума",
+        "example": "На переезде без шлагбаума необходима особая осторожность."
+      }
+    ]
+  },
+  {
+    "word": "señal de viento lateral",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 112,
+    "example_sentence_native": "La señal de viento lateral avisa de posibles ráfagas fuertes.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Боковой ветер»",
+        "example": "Знак предупреждает о возможных сильных порывах бокового ветра."
+      }
+    ]
+  },
+  {
+    "word": "señal de proyección de gravilla",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 111,
+    "example_sentence_native": "Mantén la distancia si hay señal de proyección de gravilla.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Выброс гравия»",
+        "example": "При наличии этого знака увеличьте дистанцию до впереди идущего ТС."
+      }
+    ]
+  },
+  {
+    "word": "servidumbre de paso",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 110,
+    "example_sentence_native": "Los vehículos que salen de una vía privada no tienen preferencia.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "право проезда с прилегающей территории",
+        "example": "Транспортное средство, выезжающее с прилегающей территории, не имеет приоритета."
+      }
+    ]
+  },
+  {
+    "word": "glorieta de doble carril",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 109,
+    "example_sentence_native": "En una glorieta de doble carril elige el carril correcto antes de entrar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "двухполосное кольцо",
+        "example": "На двухполосном кольце выбирайте полосу до въезда в соответствии с нужным выездом."
+      }
+    ]
+  },
+  {
+    "word": "intersección con semáforo parpadeante",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 108,
+    "example_sentence_native": "El semáforo parpadeante en ámbar obliga a extremar la precaución.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "мигающий жёлтый сигнал светофора",
+        "example": "Мигающий жёлтый сигнал означает необходимость проявлять особую осторожность."
+      }
+    ]
+  },
+  {
+    "word": "carril de la derecha en autopista",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 107,
+    "example_sentence_native": "En autopista debes circular por el carril derecho salvo para adelantar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "правая полоса на автомагистрали",
+        "example": "На автомагистрали необходимо двигаться по правой полосе, кроме случаев обгона."
+      }
+    ]
+  },
+  {
+    "word": "vehículo de gran longitud",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 106,
+    "example_sentence_native": "Los vehículos de gran longitud tienen mayor radio de giro.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "длинномерное транспортное средство",
+        "example": "Длинномерные ТС имеют больший радиус поворота — держитесь от них подальше."
+      }
+    ]
+  },
+  {
+    "word": "circulación en grupo (motocicletas)",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 105,
+    "example_sentence_native": "Las motos pueden circular en grupo pero deben mantener distancia.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "групповое движение мотоциклистов",
+        "example": "Мотоциклисты могут ехать группой, соблюдая безопасную дистанцию."
+      }
+    ]
+  },
+  {
+    "word": "estado del pavimento",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 104,
+    "example_sentence_native": "El estado del pavimento afecta directamente a la distancia de frenado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "состояние дорожного покрытия",
+        "example": "Состояние покрытия напрямую влияет на тормозной путь автомобиля."
+      }
+    ]
+  },
+  {
+    "word": "luz de marcha atrás",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 103,
+    "example_sentence_native": "La luz de marcha atrás avisa a otros vehículos de que vas a retroceder.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "фонарь заднего хода",
+        "example": "Белый фонарь заднего хода предупреждает других участников о движении назад."
+      }
+    ]
+  },
+  {
+    "word": "matrícula",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 102,
+    "example_sentence_native": "La matrícula identifica al vehículo y debe estar visible.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "номерной знак / регистрационный номер",
+        "example": "Номерной знак должен быть чистым и хорошо видимым."
+      }
+    ]
+  },
+  {
+    "word": "inspección técnica en carretera",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 101,
+    "example_sentence_native": "La policía puede realizar una inspección técnica en carretera.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "технический контроль на дороге",
+        "example": "Сотрудники ГИБДД вправе проводить технический осмотр ТС на дороге."
+      }
+    ]
+  },
+  {
+    "word": "consumo de combustible",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 100,
+    "example_sentence_native": "La velocidad excesiva aumenta el consumo de combustible.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "расход топлива",
+        "example": "Чрезмерная скорость значительно увеличивает расход топлива."
+      }
+    ]
+  },
+  {
+    "word": "conductor bajo medicación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 99,
+    "example_sentence_native": "Algunos medicamentos pueden afectar a la capacidad de conducir.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "водитель, принимающий лекарства",
+        "example": "Некоторые препараты влияют на способность управлять транспортным средством."
+      }
+    ]
+  },
+  {
+    "word": "densidad del tráfico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 98,
+    "example_sentence_native": "Con alta densidad del tráfico debes aumentar la distancia de seguridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "интенсивность движения",
+        "example": "При высокой интенсивности движения необходимо увеличить дистанцию."
+      }
+    ]
+  },
+  {
+    "word": "retención / atasco",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 97,
+    "example_sentence_native": "Hay una retención en la autopista por un accidente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "затор / пробка",
+        "example": "На автомагистрали образовалась пробка из-за ДТП."
+      }
+    ]
+  },
+  {
+    "word": "pasillo de emergencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 96,
+    "example_sentence_native": "En un atasco debes crear un pasillo de emergencia para los vehículos prioritarios.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "коридор для экстренных служб в пробке",
+        "example": "В пробке необходимо создать коридор для проезда экстренных служб."
+      }
+    ]
+  },
+  {
+    "word": "posición de espera",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 95,
+    "example_sentence_native": "El vehículo puede entrar en el cruce en posición de espera para girar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "позиция ожидания (при повороте)",
+        "example": "Автомобиль может выехать на перекрёсток, ожидая просвета для поворота."
+      }
+    ]
+  },
+  {
+    "word": "control de velocidad variable",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 94,
+    "example_sentence_native": "Los paneles de velocidad variable indican el límite según las condiciones.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "переменное ограничение скорости",
+        "example": "Электронные табло могут устанавливать разные ограничения скорости в зависимости от условий."
+      }
+    ]
+  },
+  {
+    "word": "zona de bajas emisiones",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 93,
+    "example_sentence_native": "En la zona de bajas emisiones solo pueden circular vehículos con etiqueta ambiental.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зона ограниченных выбросов (ZBE)",
+        "example": "В зону ограниченных выбросов разрешён въезд только ТС с экологическим знаком."
+      }
+    ]
+  },
+  {
+    "word": "etiqueta medioambiental",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 92,
+    "example_sentence_native": "La etiqueta medioambiental de la DGT clasifica los vehículos por emisiones.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "экологическая наклейка ДГТ (DGT)",
+        "example": "Наклейка DGT классифицирует автомобиль по уровню выбросов CO₂."
+      }
+    ]
+  },
+  {
+    "word": "corte de carretera",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 91,
+    "example_sentence_native": "Un corte de carretera obliga a buscar un desvío alternativo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "перекрытие дороги",
+        "example": "Перекрытие дороги вынуждает искать объездной маршрут."
+      }
+    ]
+  },
+  {
+    "word": "señal de desvío obligatorio",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 90,
+    "example_sentence_native": "La señal de desvío obligatorio indica que debes cambiar de ruta.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак обязательного объезда",
+        "example": "Знак обязательного объезда требует сменить маршрут движения."
+      }
+    ]
+  },
+  {
+    "word": "control de alcoholemia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 89,
+    "example_sentence_native": "Los controles de alcoholemia son aleatorios y preventivos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "проверка на алкоголь (пост)",
+        "example": "Проверки на содержание алкоголя проводятся на стационарных и передвижных постах."
+      }
+    ]
+  },
+  {
+    "word": "negativa a la prueba de alcoholemia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 88,
+    "example_sentence_native": "Negarse a la prueba de alcoholemia es un delito.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "отказ от проверки на алкоголь",
+        "example": "Отказ от проверки на содержание алкоголя является уголовным преступлением."
+      }
+    ]
+  },
+  {
+    "word": "velocidad de circulación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 87,
+    "example_sentence_native": "La velocidad de circulación debe adaptarse a las condiciones de la vía.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "скорость движения (фактическая)",
+        "example": "Фактическая скорость движения должна соответствовать условиям дороги."
+      }
+    ]
+  },
+  {
+    "word": "aceleración brusca",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 86,
+    "example_sentence_native": "Evita las aceleraciones bruscas para mayor seguridad y ahorro.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "резкое ускорение",
+        "example": "Резкое ускорение увеличивает расход топлива и снижает безопасность."
+      }
+    ]
+  },
+  {
+    "word": "frenada brusca",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 85,
+    "example_sentence_native": "Una frenada brusca puede provocar un alcance con el vehículo de atrás.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "резкое торможение",
+        "example": "Резкое торможение может спровоцировать столкновение сзади идущего ТС."
+      }
+    ]
+  },
+  {
+    "word": "señal de fin de autopista",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 84,
+    "example_sentence_native": "La señal de fin de autopista indica que abandonas la vía de alta capacidad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак конца автомагистрали",
+        "example": "Знак конца автомагистрали означает переход на дорогу с обычным режимом."
+      }
+    ]
+  },
+  {
+    "word": "carretera de montaña",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 83,
+    "example_sentence_native": "En carretera de montaña extreme la precaución en curvas cerradas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "горная дорога",
+        "example": "На горной дороге будьте особенно осторожны на крутых поворотах."
+      }
+    ]
+  },
+  {
+    "word": "vehículo de dos ruedas",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 82,
+    "example_sentence_native": "Los vehículos de dos ruedas son más vulnerables en carretera.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "двухколёсное транспортное средство",
+        "example": "Двухколёсные ТС особенно уязвимы на дорогах и требуют особого внимания."
+      }
+    ]
+  },
+  {
+    "word": "patinaje / derrape",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 81,
+    "example_sentence_native": "El derrape puede ocurrir en curvas con pavimento mojado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "занос / скольжение",
+        "example": "Занос может возникнуть в повороте на мокром покрытии при высокой скорости."
+      }
+    ]
+  },
+  {
+    "word": "conductor profesional",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 80,
+    "example_sentence_native": "El conductor profesional debe cumplir tiempos de conducción y descanso.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "профессиональный водитель",
+        "example": "Профессиональный водитель обязан соблюдать нормы времени вождения и отдыха."
+      }
+    ]
+  },
+  {
+    "word": "tacógrafo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 79,
+    "example_sentence_native": "El tacógrafo registra los tiempos de conducción y descanso.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "тахограф",
+        "example": "Тахограф фиксирует время вождения и отдыха профессионального водителя."
+      }
+    ]
+  },
+  {
+    "word": "tiempo de conducción máximo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 78,
+    "example_sentence_native": "El tiempo de conducción máximo diario sin descanso es de 4,5 horas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "максимальное время непрерывного вождения",
+        "example": "Максимальное время непрерывного вождения без перерыва — 4,5 часа."
+      }
+    ]
+  },
+  {
+    "word": "descanso obligatorio",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 77,
+    "example_sentence_native": "Tras 4,5 horas al volante es obligatorio un descanso de 45 minutos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обязательный перерыв в вождении",
+        "example": "После 4,5 часов за рулём водитель обязан сделать перерыв не менее 45 минут."
+      }
+    ]
+  },
+  {
+    "word": "señal de tráfico electrónica",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 76,
+    "example_sentence_native": "Las señales electrónicas tienen prioridad sobre las señales fijas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "электронный дорожный знак (панель)",
+        "example": "Электронные знаки на панелях имеют приоритет над стационарными знаками."
+      }
+    ]
+  },
+  {
+    "word": "prioridad de señales",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 75,
+    "example_sentence_native": "El orden de prioridad: agente, semáforo, señales, normas generales.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "приоритет дорожных знаков и сигналов",
+        "example": "Порядок: регулировщик, светофор, знаки, общие правила движения."
+      }
+    ]
+  },
+  {
+    "word": "señal de zona residencial",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 74,
+    "example_sentence_native": "En una zona residencial los peatones tienen preferencia total.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак жилой зоны",
+        "example": "В жилой зоне пешеходы имеют абсолютный приоритет."
+      }
+    ]
+  },
+  {
+    "word": "señal de zona de juego infantil",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 73,
+    "example_sentence_native": "En una zona de juego infantil debes circular a paso de persona.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак «Детская игровая площадка»",
+        "example": "В зоне детских площадок необходимо двигаться со скоростью пешехoda."
+      }
+    ]
+  },
+  {
+    "word": "carril para ciclistas en calzada",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 72,
+    "example_sentence_native": "Respetar el carril para ciclistas en calzada es obligatorio.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "велополоса на проезжей части",
+        "example": "Нарушение велополосы на проезжей части запрещено."
+      }
+    ]
+  },
+  {
+    "word": "distancia lateral de seguridad",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 71,
+    "example_sentence_native": "Al adelantar a un ciclista debes dejar 1,5 m de distancia lateral.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "боковой интервал безопасности",
+        "example": "При обгоне велосипедиста боковой интервал должен быть не менее 1,5 м."
+      }
+    ]
+  },
+  {
+    "word": "señal de fin de prohibición",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 70,
+    "example_sentence_native": "La señal de fin de prohibición cancela la restricción anterior.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак конца запрета",
+        "example": "Знак конца запрета отменяет действие предыдущего ограничивающего знака."
+      }
+    ]
+  },
+  {
+    "word": "paso peatonal elevado",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 69,
+    "example_sentence_native": "El paso peatonal elevado obliga a reducir la velocidad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "приподнятый пешеходный переход",
+        "example": "Приподнятый пешеходный переход вынуждает водителей снижать скорость."
+      }
+    ]
+  },
+  {
+    "word": "fallo mecánico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 68,
+    "example_sentence_native": "Un fallo mecánico puede causar una pérdida de control del vehículo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "механическая неисправность",
+        "example": "Механическая неисправность может привести к потере управления ТС."
+      }
+    ]
+  },
+  {
+    "word": "mantenimiento del vehículo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 67,
+    "example_sentence_native": "El mantenimiento regular del vehículo es obligación del conductor.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "техническое обслуживание ТС",
+        "example": "Регулярное техническое обслуживание — обязанность каждого водителя."
+      }
+    ]
+  },
+  {
+    "word": "luz de posición trasera",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 66,
+    "example_sentence_native": "La luz de posición trasera indica la presencia del vehículo en la oscuridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "задний габаритный огонь",
+        "example": "Задние габаритные огни обозначают ТС сзади в условиях темноты."
+      }
+    ]
+  },
+  {
+    "word": "señalización de un vehículo detenido en la vía",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 65,
+    "example_sentence_native": "Debes señalizar correctamente tu vehículo si se detiene en la vía.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обозначение остановившегося ТС на дороге",
+        "example": "Остановившееся на дороге ТС должно быть обозначено аварийными сигналами и треугольниками."
+      }
+    ]
+  },
+  {
+    "word": "columna de vehículos",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 64,
+    "example_sentence_native": "No te cueles en una columna de vehículos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "колонна транспортных средств",
+        "example": "Запрещается встраиваться в колонну ТС, нарушая её порядок движения."
+      }
+    ]
+  },
+  {
+    "word": "retención de tráfico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 63,
+    "example_sentence_native": "La retención de tráfico puede provocar accidentes si no te anticipas.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "замедление / затор транспортного потока",
+        "example": "Замедление потока может привести к ДТП, если водитель не успевает среагировать."
+      }
+    ]
+  },
+  {
+    "word": "indicaciones del agente",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 62,
+    "example_sentence_native": "Las indicaciones del agente prevalecen sobre el semáforo.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "указания регулировщика",
+        "example": "Указания регулировщика имеют приоритет над светофором и дорожными знаками."
+      }
+    ]
+  },
+  {
+    "word": "señal de prohibición de giro",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 61,
+    "example_sentence_native": "La señal de prohibición de giro prohíbe girar en esa dirección.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак запрета поворота",
+        "example": "Знак запрета поворота направо или налево обязателен к исполнению."
+      }
+    ]
+  },
+  {
+    "word": "señal de dirección obligatoria",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 60,
+    "example_sentence_native": "La señal de dirección obligatoria indica que debes girar en ese sentido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак обязательного направления",
+        "example": "Знак обязывает водителя двигаться только в указанном направлении."
+      }
+    ]
+  },
+  {
+    "word": "señal de calzada para vehículos lentos",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 59,
+    "example_sentence_native": "Los vehículos lentos deben usar el carril habilitado para ellos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "полоса для медленных ТС",
+        "example": "Медленные транспортные средства обязаны занимать специально отведённую полосу."
+      }
+    ]
+  },
+  {
+    "word": "alumbrado de emergencia en túnel",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 58,
+    "example_sentence_native": "En caso de incendio en un túnel usa las salidas de emergencia.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аварийное освещение в тоннеле",
+        "example": "При пожаре в тоннеле следуйте аварийному освещению к выходу."
+      }
+    ]
+  },
+  {
+    "word": "retirada de vehículo mal aparcado",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 57,
+    "example_sentence_native": "El vehículo mal aparcado puede ser retirado por la grúa municipal.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "эвакуация неправильно припаркованного ТС",
+        "example": "Неправильно припаркованный автомобиль может быть эвакуирован."
+      }
+    ]
+  },
+  {
+    "word": "conductor bajo presión emocional",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 56,
+    "example_sentence_native": "Conducir bajo estrés o presión emocional aumenta el riesgo de accidente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "вождение в состоянии эмоционального стресса",
+        "example": "Вождение в состоянии стресса значительно увеличивает риск ДТП."
+      }
+    ]
+  },
+  {
+    "word": "ceder el paso en paso de peatones",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 55,
+    "example_sentence_native": "Debes ceder el paso a los peatones que esperan cruzar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "уступать дорогу пешеходам на переходе",
+        "example": "Водитель обязан уступить дорогу пешеходу, ожидающему перехода."
+      }
+    ]
+  },
+  {
+    "word": "señal de tráfico dañada",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 54,
+    "example_sentence_native": "Si una señal de tráfico está dañada, aplica las normas generales.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "повреждённый дорожный знак",
+        "example": "При наличии повреждённого знака следует руководствоваться общими правилами."
+      }
+    ]
+  },
+  {
+    "word": "semáforo en ámbar",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 53,
+    "example_sentence_native": "El semáforo en ámbar indica que va a cambiar a rojo y debes prepararte a parar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "жёлтый сигнал светофора",
+        "example": "Жёлтый сигнал означает скорое появление красного — готовьтесь к остановке."
+      }
+    ]
+  },
+  {
+    "word": "semáforo en verde",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 52,
+    "example_sentence_native": "El semáforo en verde permite el paso, pero con precaución.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зелёный сигнал светофора",
+        "example": "Зелёный сигнал разрешает движение, но необходимо убедиться в безопасности."
+      }
+    ]
+  },
+  {
+    "word": "semáforo en rojo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 51,
+    "example_sentence_native": "El semáforo en rojo obliga a detenerse completamente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "красный сигнал светофора",
+        "example": "Красный сигнал светофора обязывает водителя полностью остановиться."
+      }
+    ]
+  },
+  {
+    "word": "señal de carril exclusivo",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 50,
+    "example_sentence_native": "El carril exclusivo está reservado para vehículos específicos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "выделенная полоса",
+        "example": "Выделенная полоса предназначена для определённого вида транспорта."
+      }
+    ]
+  },
+  {
+    "word": "incorporarse desde un carril de aceleración",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 49,
+    "example_sentence_native": "Coge velocidad en el carril de aceleración antes de incorporarte.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "выезд на дорогу с полосы разгона",
+        "example": "Наберите скорость на полосе разгона перед выездом на основную дорогу."
+      }
+    ]
+  },
+  {
+    "word": "señal de paso a nivel",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 48,
+    "example_sentence_native": "Las señales de paso a nivel avisan con 240, 160 y 80 metros de antelación.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знаки предупреждения о ж/д переезде",
+        "example": "Знаки устанавливаются за 240, 160 и 80 метров до переезда."
+      }
+    ]
+  },
+  {
+    "word": "licencia de conducir internacional",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 47,
+    "example_sentence_native": "Algunos países exigen una licencia de conducir internacional.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "международное водительское удостоверение",
+        "example": "Для вождения в некоторых странах требуется международное водительское удостоверение."
+      }
+    ]
+  },
+  {
+    "word": "canje de permiso de conducir",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 46,
+    "example_sentence_native": "Los ciudadanos extranjeros pueden canjear su permiso de conducir.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обмен иностранного водительского удостоверения",
+        "example": "Иностранные граждане могут обменять водительские права на испанские."
+      }
+    ]
+  },
+  {
+    "word": "peaje",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 45,
+    "example_sentence_native": "En algunas autopistas hay que pagar peaje.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "дорожный сбор / плата за проезд",
+        "example": "На некоторых автомагистралях взимается плата за проезд."
+      }
+    ]
+  },
+  {
+    "word": "vía de servicio en autopista",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 44,
+    "example_sentence_native": "La vía de servicio permite acceder a los establecimientos junto a la autopista.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "дорога обслуживания (параллельная автомагистрали)",
+        "example": "Параллельная дорога обеспечивает доступ к придорожным объектам без выезда на магистраль."
+      }
+    ]
+  },
+  {
+    "word": "área de descanso",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 43,
+    "example_sentence_native": "Las áreas de descanso en autopista permiten parar a descansar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зона отдыха на автомагистрали",
+        "example": "Зоны отдыха на автомагистрали предназначены для остановки и отдыха водителей."
+      }
+    ]
+  },
+  {
+    "word": "área de servicio",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 42,
+    "example_sentence_native": "En el área de servicio puedes repostar combustible y descansar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зона обслуживания / АЗС с услугами",
+        "example": "На зоне обслуживания можно заправиться и воспользоваться различными услугами."
+      }
+    ]
+  },
+  {
+    "word": "limitación por condiciones meteorológicas",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 41,
+    "example_sentence_native": "Cuando hay nieve, se puede limitar la velocidad a 80 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ограничение скорости по погодным условиям",
+        "example": "В снегопад скорость может быть ограничена до 80 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "señal de desvío por obras",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 40,
+    "example_sentence_native": "Sigue las señales de desvío por obras para no entorpecer los trabajos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "знак объезда строительных работ",
+        "example": "Следуйте знакам объезда дорожных работ, чтобы не мешать строительным работам."
+      }
+    ]
+  },
+  {
+    "word": "conducción con visión nocturna reducida",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 39,
+    "example_sentence_native": "De noche la visión periférica se reduce notablemente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "ночное вождение с ухудшенным обзором",
+        "example": "Ночью периферийное зрение значительно ухудшается — снижайте скорость."
+      }
+    ]
+  },
+  {
+    "word": "cambio de alumbrado (largo a corto)",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "phrase",
+    "word_frequency": 38,
+    "example_sentence_native": "Cambia a luces cortas cuando veas un vehículo en sentido contrario.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "переключение с дальнего на ближний свет",
+        "example": "При приближении встречного ТС необходимо переключиться на ближний свет."
+      }
+    ]
+  },
+  {
+    "word": "espejo retrovisor",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 300,
+    "example_sentence_native": "Ajusta el espejo retrovisor antes de conducir.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зеркало заднего вида",
+        "example": "Отрегулируйте зеркало заднего вида перед поездкой."
+      }
+    ]
+  },
+  {
+    "word": "espejo lateral",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 280,
+    "example_sentence_native": "Revisa los espejos laterales al cambiar de carril.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "боковое зеркало",
+        "example": "Проверяйте боковые зеркала при смене полосы."
+      }
+    ]
+  },
+  {
+    "word": "limpiaparabrisas",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 260,
+    "example_sentence_native": "Enciende los limpiaparabrisas cuando llueve.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стеклоочиститель",
+        "example": "Включите стеклоочиститель во время дождя."
+      }
+    ]
+  },
+  {
+    "word": "faro trasero",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 240,
+    "example_sentence_native": "El faro trasero roto puede causar una multa.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "задний фонарь",
+        "example": "Неисправный задний фонарь может повлечь штраф."
+      }
+    ]
+  },
+  {
+    "word": "bocina",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 300,
+    "example_sentence_native": "No uses la bocina innecesariamente en zonas residenciales.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "звуковой сигнал",
+        "example": "Не используйте звуковой сигнал без необходимости в жилых зонах."
+      }
+    ]
+  },
+  {
+    "word": "odómetro",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 200,
+    "example_sentence_native": "El odómetro registra la distancia total recorrida.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "одометр",
+        "example": "Одометр фиксирует общий пробег автомобиля."
+      }
+    ]
+  },
+  {
+    "word": "velocímetro",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 250,
+    "example_sentence_native": "Controla el velocímetro para no superar el límite.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "спидометр",
+        "example": "Следите за спидометром, чтобы не превысить ограничение."
+      }
+    ]
+  },
+  {
+    "word": "tacómetro",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 180,
+    "example_sentence_native": "El tacómetro muestra las revoluciones del motor.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "тахометр",
+        "example": "Тахометр показывает обороты двигателя."
+      }
+    ]
+  },
+  {
+    "word": "zona de obras",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 280,
+    "example_sentence_native": "Reduce la velocidad al entrar en una zona de obras.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зона дорожных работ",
+        "example": "Снизьте скорость при въезде в зону дорожных работ."
+      }
+    ]
+  },
+  {
+    "word": "carretera convencional",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 260,
+    "example_sentence_native": "La velocidad máxima en carretera convencional es 90 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обычная дорога",
+        "example": "Максимальная скорость на обычной дороге — 90 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "vía urbana",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 270,
+    "example_sentence_native": "En vía urbana el límite general es de 50 km/h.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "городская дорога",
+        "example": "В городе общее ограничение скорости составляет 50 км/ч."
+      }
+    ]
+  },
+  {
+    "word": "rebasamiento",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 240,
+    "example_sentence_native": "El rebasamiento en curva está prohibido.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обгон",
+        "example": "Обгон на повороте запрещён."
+      }
+    ]
+  },
+  {
+    "word": "ceder el paso",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "verb",
+    "word_frequency": 300,
+    "example_sentence_native": "Debes ceder el paso al vehículo que viene por la derecha.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "уступить дорогу",
+        "example": "Вы должны уступить дорогу транспортному средству справа."
+      }
+    ]
+  },
+  {
+    "word": "zona de carga y descarga",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 200,
+    "example_sentence_native": "Está prohibido aparcar en zona de carga y descarga.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "зона погрузки-разгрузки",
+        "example": "Парковка в зоне погрузки-разгрузки запрещена."
+      }
+    ]
+  },
+  {
+    "word": "vía de servicio",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 190,
+    "example_sentence_native": "La vía de servicio permite el acceso a propiedades laterales.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "местная дорога",
+        "example": "Местная дорога обеспечивает доступ к прилегающим объектам."
+      }
+    ]
+  },
+  {
+    "word": "iluminación de emergencia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 220,
+    "example_sentence_native": "Activa la iluminación de emergencia si el vehículo queda inmovilizado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "аварийное освещение",
+        "example": "Включите аварийное освещение, если автомобиль обездвижен."
+      }
+    ]
+  },
+  {
+    "word": "carnet de conducir",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 320,
+    "example_sentence_native": "El carnet de conducir debe llevarse siempre al volante.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "водительское удостоверение",
+        "example": "Водительское удостоверение всегда должно быть при вожде."
+      }
+    ]
+  },
+  {
+    "word": "permiso de circulación",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 280,
+    "example_sentence_native": "El permiso de circulación acredita que el vehículo está matriculado.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "свидетельство о регистрации ТС",
+        "example": "Свидетельство о регистрации подтверждает постановку на учёт."
+      }
+    ]
+  },
+  {
+    "word": "seguro obligatorio",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 300,
+    "example_sentence_native": "Circular sin seguro obligatorio es una infracción grave.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "обязательная страховка",
+        "example": "Езда без обязательной страховки является серьёзным нарушением."
+      }
+    ]
+  },
+  {
+    "word": "ITV",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 290,
+    "example_sentence_native": "La ITV verifica que el vehículo cumple los requisitos técnicos.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "технический осмотр",
+        "example": "Технический осмотр проверяет соответствие автомобиля требованиям."
+      }
+    ]
+  },
+  {
+    "word": "retención de tráfico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 250,
+    "example_sentence_native": "Hay retención de tráfico en la autovía a causa de un accidente.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "затор на дороге",
+        "example": "На шоссе затор из-за аварии."
+      }
+    ]
+  },
+  {
+    "word": "desvío",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 280,
+    "example_sentence_native": "Sigue el desvío indicado por las señales.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "объезд",
+        "example": "Следуйте объезду, указанному знаками."
+      }
+    ]
+  },
+  {
+    "word": "sentido único",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 270,
+    "example_sentence_native": "Esta calle es de sentido único, no puedes girar.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "одностороннее движение",
+        "example": "Эта улица с односторонним движением, повернуть нельзя."
+      }
+    ]
+  },
+  {
+    "word": "doble sentido",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 250,
+    "example_sentence_native": "La avenida es de doble sentido de circulación.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "двустороннее движение",
+        "example": "На проспекте двустороннее движение."
+      }
+    ]
+  },
+  {
+    "word": "conductor novel",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 260,
+    "example_sentence_native": "El conductor novel tiene restricciones de velocidad y alcohol.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "начинающий водитель",
+        "example": "Начинающий водитель имеет ограничения по скорости и алкоголю."
+      }
+    ]
+  },
+  {
+    "word": "accidente de tráfico",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 320,
+    "example_sentence_native": "En caso de accidente de tráfico llama al 112.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "дорожно-транспортное происшествие",
+        "example": "В случае ДТП звоните по номеру 112."
+      }
+    ]
+  },
+  {
+    "word": "fuga del lugar del accidente",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 200,
+    "example_sentence_native": "La fuga del lugar del accidente es un delito grave.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "оставление места ДТП",
+        "example": "Оставление места ДТП является серьёзным преступлением."
+      }
+    ]
+  },
+  {
+    "word": "respetar la distancia",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "verb",
+    "word_frequency": 280,
+    "example_sentence_native": "Siempre debes respetar la distancia de seguridad.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "соблюдать дистанцию",
+        "example": "Всегда соблюдайте безопасную дистанцию."
+      }
+    ]
+  },
+  {
+    "word": "línea de stop",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 240,
+    "example_sentence_native": "Detén el vehículo antes de la línea de stop.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "стоп-линия",
+        "example": "Остановитесь перед стоп-линией."
+      }
+    ]
+  },
+  {
+    "word": "zona de peatones",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 260,
+    "example_sentence_native": "Los vehículos no pueden circular por la zona de peatones.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "пешеходная зона",
+        "example": "Транспортным средствам запрещено въезжать в пешеходную зону."
+      }
+    ]
+  },
+  {
+    "word": "semáforo parpadeante",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 200,
+    "example_sentence_native": "El semáforo parpadeante amarillo indica precaución.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "мигающий светофор",
+        "example": "Мигающий жёлтый сигнал светофора означает осторожность."
+      }
+    ]
+  },
+  {
+    "word": "conducción temeraria",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 220,
+    "example_sentence_native": "La conducción temeraria puede conllevar pena de cárcel.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "опасное вождение",
+        "example": "Опасное вождение может повлечь лишение свободы."
+      }
+    ]
+  },
+  {
+    "word": "vehículo de gran tonelaje",
+    "useful_for_flashcard": true,
+    "cefr_level": "ПДД",
+    "pos": "noun",
+    "word_frequency": 190,
+    "example_sentence_native": "Los vehículos de gran tonelaje tienen restricciones en algunas vías.",
+    "translations": [
+      {
+        "language": "russian",
+        "meaning": "большегрузный автомобиль",
+        "example": "Большегрузные автомобили имеют ограничения на некоторых дорогах."
+      }
+    ]
+  }
+]

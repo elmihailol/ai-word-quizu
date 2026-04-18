@@ -1,0 +1,9 @@
+{
+  "sourceName": "Tráfico",
+  "sourceLanguage": "ES",
+  "dataFile": "terms.json",
+  "levels": ["ПДД"],
+  "targetLanguages": [
+    { "code": "RU", "name": "russian" }
+  ]
+}
